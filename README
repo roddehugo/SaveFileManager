@@ -1,14 +1,10 @@
-mardi 03 novembre 2009
-Programme crée par Sarathai
-Licence creative commons
+==by Hugo Rodde==3/11/2009
 
-Pour envoyer des fichiers sur le serveur, cliquer d'abord sur le bouton ajouter,
-puis sélectionnez le dossier ou fichier à ajouter. Répétez cette opération autant de foi que nécessaire.
-Puis cliquez sur le bouton envoyer en ayant d'abord rempli les champs de l'adresse ip et du port.
+To send files on the server, first click on "add" button, then select le directory or file to add.
+Do this while you have files to save.
+After, fil the ip & port textfields and click on "send" button. 
 
-Pour recevoir des fichiers sauvegardés sur le serveur, cliquez sur le bouton recevoir,
-puis sélectionnez le ou les fichier(s) voulu(s) dans la liste de gauche, et enfin recliquez
-sur le bouton recevoir pour importer les fichiers.
+To receive files saved on the server, first click on "receive" button, the select the file(s) you want in left column.
+Finally, click again on "receive" button to import those files.
 
-Pour toutes les infos, bien lire le texte qui s'affiche dans le champ de texte en bas.
-
+For further informations, read carefully the text which is on the bottom textfield.
